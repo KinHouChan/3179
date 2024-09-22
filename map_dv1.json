@@ -1,14 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Death Rate of Malaysia in 2021",
-  "width": 790,
-  "height": 400,
+  "width": 720,
+  "height": 290,
   "projection": {
     "type": "equirectangular",
     "scale": 2000,
     "center": [111, 3],
     "clipExtent":[[0,0],[750,300]],
-    "translate": [410, 200]
+    "translate": [410, 185]
   },
   "layer": [
     {
